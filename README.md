@@ -1,0 +1,2 @@
+# Pynance
+Python Finance Manager
